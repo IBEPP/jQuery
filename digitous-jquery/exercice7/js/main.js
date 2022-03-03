@@ -1,0 +1,1 @@
+$("#text").css("display", "block")

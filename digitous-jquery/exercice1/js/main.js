@@ -1,0 +1,2 @@
+
+$("#square").css("background", "red")
